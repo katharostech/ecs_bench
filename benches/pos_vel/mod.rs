@@ -1,9 +1,9 @@
 pub mod bevy;
-pub mod shipyard;
-pub mod hecs;
-pub mod specs;
-pub mod legion;
-pub mod legion_experimental;
+// pub mod shipyard;
+// pub mod hecs;
+// pub mod specs;
+// pub mod legion;
+// pub mod legion_experimental;
 
 /// Entities with velocity and position component.
 /// Used to insert in staggered order

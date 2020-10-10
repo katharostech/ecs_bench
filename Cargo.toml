@@ -9,13 +9,13 @@ edition = "2018"
 [dev-dependencies]
 criterion = "0.3"
 rayon = "0.8"
-specs = "0.16"
-froggy = "0.4.4"
-constellation = "0.2"
-tiny_ecs = "0.19"
-legion = "0.2.4"
-legion_experimental = { path = "../legion_experiment", package = "legion" }
-shipyard = "0.4.1"
+# specs = "0.16"
+# froggy = "0.4.4"
+# constellation = "0.2"
+# tiny_ecs = "0.19"
+# legion = "0.2.4"
+# legion_experimental = { path = "../legion_experiment", package = "legion" }
+# shipyard = "0.4.1"
 bevy_ecs = { path = "../bevy/crates/bevy_ecs" }
 rand = "0.7.3"
 fnv = "1.0.6"
